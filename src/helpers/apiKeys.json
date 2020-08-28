@@ -1,0 +1,11 @@
+{
+  "firebaseKeys": {
+    "apiKey": "AIzaSyCTDKqmTRoPd6-ANU2AB_bSYlD1LRpAryY",
+    "authDomain": "react-pinterest-fe33b.firebaseapp.com",
+    "databaseURL": "https://react-pinterest-fe33b.firebaseio.com",
+    "projectId": "react-pinterest-fe33b",
+    "storageBucket": "react-pinterest-fe33b.appspot.com",
+    "messagingSenderId": "989894764613",
+    "appId": "1:989894764613:web:ac4fd8940dd62a80405b2c"
+  }
+}
